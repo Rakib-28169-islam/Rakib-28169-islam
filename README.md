@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently Student At North South University , Bangladesh  <br>🤝 I’m looking for help with ML/DL<br>🌱 I’m currently learning MERN, Python,ML/DL <br>💬 Ask me about C/C++/JAVA/JS/PHP/REACT/HTML5<br>⚡ Love To Problem Solving
+🔭 I’m Rakibul Islam,currently Student At North South University , Bangladesh  <br>🤝 I’m looking for help with ML/DL<br>🌱 I’m currently learning MERN, Python,ML/DL <br>💬 Ask me about C/C++/JAVA/JS/PHP/REACT/HTML5<br>⚡ Love To Problem Solving
 
 
 ## 🌐 Socials:
